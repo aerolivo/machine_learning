@@ -1,2 +1,3 @@
-# machine_learning
+# Introduction to Machine Learning for Physicists
+
 Introduction to Machine Learning for Physicists
